@@ -1,4 +1,4 @@
-# ModulationAmplitud
+# Modulationof Amplitud
 AM modulation in Julia Language.
 
 I wanted to share some about Telecommunications,my most funny course of my Electronic Engineering career. But I need to explain some about Modulation.
